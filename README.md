@@ -1,2 +1,79 @@
-# desafio-02-html
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ficha de Cadastro</title>
+</head>
+
+<body>
+  
+    <fieldset>
+        <form action="" method="post"></form>
+      <legend><b>Cadastro</b></legend>
+      <label for="nome"><b>Nome</b></label><br>
+      <input type="text" name="nome" id="nome">
+      <br><br>
+
+      <label for="email"><b>Email</b></label><br>
+      <input type="email" email="email" id="email">
+      <br><br>
+
+      <label for="idade"><b>Idade</b></label><br>
+      <input type="number" nome="idade" id="idade" min="12">
+      <br><br>
+
+      <label for="Data-de-Nascimento"><b>Data de Nascimento</b></label><br>
+      <input type="Date" nome="Data-de-Nascimento" id="Data-de-Nascimento" placeholder="Ex.: 00/00/0000"
+        data-mask="00/00/0000" maxlength="10" autocomplete="off">
+      <br><br>
+
+      <label for="Onde-você-possui-conta"><b>Onde você possui conta</b></label><br>
+
+      <input type="checkbox" name="instragram"><b>Instagram</b>
+      <input type="checkbox" name="facebook"><b>Facebook</b>
+      <input type="checkbox" name="youtube"><b>Youtube</b>
+      <br><br>
+
+      <label for="sexo"><b>Sexo</b></label><br>
+      <input type="radio" name="genero" value="masculino"><b>Masculino</b>
+      <input type="radio" name="genero" value="feminino"><b>Feminino</b>
+      <br><br>
+
+      <label for="color"><b>Cor dos Olhos</b></label>
+      <input type="color" value="">
+      <br><br>
+
+      <label for="Biografia"><b>Biografia</b></label><br>
+      <textarea name="Caracteres" rows="5" cols="33" maxlength="5"></textarea><br>
+      <br>
+
+      <label for="foto-do-perfil"><b>Foto do Perfil</b></label><br>
+      <input type="file" accept="image/*">
+      <br><br>
+
+      <label for="Telefone"><b>Telefone</b></label><br>
+      <input type="tel" nome="telefone" id="telefone" placeholder="(00)00000-0000" mask="(00)00000-0000" min="10"
+        maxlength="14" autocomplete="off">
+      <br><br>
+
+      <label for="homepage"><b>Link do Perfil do Facebook</b></label><br>
+      <input type="url" id="homepage" name="homepage">
+      <br><br>
+
+      <label for="passoword"><b>Senha</b></label><br>
+      <input type="passoword" id="passoword" name="passoword" minlength="6" maxlength="6">
+      <br><br>
+
+      <button type="reset">Limpar</button>
+      <button type="submit" name="submit">Enviar Dados</button>
+
+    </form>
+    </fieldset>
  
+
+</body>
+
+</html>
