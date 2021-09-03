@@ -7,7 +7,7 @@
 
 
 <br><br>
-<p align="right">2º Desafio do Curso CodeClub</p> 
+<p align="right">2º Desafio-html do Curso CodeClub</p> 
 <p align='right'>Trainer/Founder: <i>Rodolfo Mori</I></p>
 <p>
 <a href="https://www.instagram.com/dolfo.mori">
