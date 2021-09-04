@@ -23,7 +23,7 @@
 
 #
 
-<div>
+<code>
 <p align="right"><b>>>>>>By<<<<<</b></p>
 <table align="right">
   <tr>
@@ -52,4 +52,4 @@
 
 <p align="right"><b>❤TECHNOLOGY❤</b></p><br>
   
-  </div>
+  </code>
