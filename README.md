@@ -23,19 +23,21 @@
 
 #
 
-<p>
+
 <p align="right"><b>>>>>>By<<<<<</b></p>
 <table align="right">
-  <tr>
+<tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/MeireCeschim">
         <img src="https://avatars.githubusercontent.com/u/89756578?s=400&u=3fe7c1530d59282b03143899373eeeb5f1dc3953&v=4" width="100px;" alt="Foto da Meire Ceschim no GitHub"/><br>
         <sub>
           <b>MeireCeschim</b>
         </sub>
       </a>
+  </td>
   </tr>
 </table>
+
     
 
 📌 `Tarefa executada`
@@ -52,4 +54,4 @@
 
 <p align="right"><b>❤TECHNOLOGY❤</b></p><br>
   
-  </p>
+  
